@@ -1,0 +1,6 @@
+{
+  "name": "4U Style Platinum",
+  "description": "Premium Men's Fashion and Clothing Store in Addis Ababa, Ethiopia - Robel Plaza, Cameroon Street.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
